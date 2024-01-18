@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About
-======
 
 I am a third year PhD student, at [IRIF](https://www.irif.fr/), Université Paris Cité, under the supervision of [Geoffroy Couteau](https://geoffroycouteau.github.io/) and [Alain Couvreur](http://www.lix.polytechnique.fr/Labo/Alain.Couvreur/). 
 
