@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink:
 venue: 
-date: 2
+date: 
 location: 
 ---
 
