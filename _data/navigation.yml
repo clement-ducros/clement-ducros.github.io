@@ -3,10 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-
   - title: "Teaching"
     url: /cv/
     
-  - title: "Miscellaneous"
-    url: /year-archive/
+#  - title: "Miscellaneous"
+ #   url: /year-archive/
 
