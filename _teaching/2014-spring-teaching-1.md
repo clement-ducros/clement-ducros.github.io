@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "2021-2022"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: 
 venue: "University 1, Department"
 date: 2014-01-01
