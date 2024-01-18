@@ -31,7 +31,7 @@ I have participated in the following events, in the antichronological order:
 - [PKC 2023](https://pkc.iacr.org/2023/), Atlanta, May 7th to May 10th, 2023.
 - [EUROCRYPT 2023](https://eurocrypt.iacr.org/2023/), Lyon, April 23th to April 27th, 2023.
 - [Retraite ANR Barracuda 2023](https://barracuda.inria.fr/fr/), Mortagne-sur-Gironde, January 8th to January 13th, 2023.
-- [ICALP 2022]([https://icalp2022.irif.fr/), Paris, July 4th to July 8th, 2022.
+- [ICALP 2022](https://icalp2022.irif.fr/), Paris, July 4th to July 8th, 2022.
 - [Retraite ANR Barracuda 2022](https://barracuda.inria.fr/fr/), Metabief, June 27th to July 1st, 2022.
 - [TPMPC 2022](https://www.multipartycomputation.com/tpmpc-2022), Aarhus, June 7th to June 10th, 2022.
 - [EUROCRYPT 2022](https://eurocrypt.iacr.org/2022/), Trondheim, May 30th to June 3rd, 2022.
