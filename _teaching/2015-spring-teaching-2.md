@@ -4,14 +4,6 @@ collection: teaching
 ---
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
 
 I have been doing a bit of teaching since the start of my PhD, at UFR d'Informatique, Université Paris Cité. So far, I have taught exercice sessions (TD) and labs (TP) for the following courses:
 
