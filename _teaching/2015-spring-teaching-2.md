@@ -1,12 +1,23 @@
 ---
-title: ""
-collection: 
-type: 
-permalink:
-venue: 
-date: 
-location: 
+title: "Teaching experience 2"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
 
 I have been doing a bit of teaching since the start of my PhD, at UFR d'Informatique, Université Paris Cité. So far, I have taught exercice sessions (TD) and labs (TP) for the following courses:
 
