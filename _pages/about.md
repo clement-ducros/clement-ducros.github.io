@@ -16,7 +16,7 @@ My thesis topic is *"Linear Codes for Quantum-Resistant Secure Computation"*. Mo
 News
 ======
 
-I'm currently searching for a postdoc starting at the end of 2024.
+I'm currently searching for a postdoc starting at the end of 2024!
 
 
 We may have met
