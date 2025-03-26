@@ -14,11 +14,6 @@ My subject was "Multiparty Computation from the Hardness of Coding Theory", and 
  More generally, my research interests lie in Secure Multiparty Computation, and Pseudorandomness Generation, Coding Theory, and general foundation of cryptography. You can find my CV [here](/CV_Clement_Ducros.pdf).
 
 
-News
-======
-
-I'm currently searching for a postdoc starting at the end of 2024!
-
 
 We may have met
 ======
