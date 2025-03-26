@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student, at [IRIF](https://www.irif.fr/), Université Paris Cité, under the supervision of [Geoffroy Couteau](https://geoffroycouteau.github.io/) and [Alain Couvreur](http://www.lix.polytechnique.fr/Labo/Alain.Couvreur/). 
+Since January 2025, I am a postdoctoral researcher at CISPA Helmholtz Center for Information Security, working with [Julian Loss]([Julian Loss](https://www.julianloss.com/)). Previously, I was a PhD student at the Institut de Recherche en Informatique Fondementale [IRIF](https://www.irif.fr/), Université Paris Cité, under the supervision of [Geoffroy Couteau](https://geoffroycouteau.github.io/) and [Alain Couvreur](http://www.lix.polytechnique.fr/Labo/Alain.Couvreur/).
+My subject was "Multiparty Computation from the Hardness of Coding Theory", and you can find my thesis [here](https://theses.hal.science/tel-04889558/)
 
-My thesis topic is *"Linear Codes for Quantum-Resistant Secure Computation"*. More generally, my research interests lie in Secure Multiparty Computation, and Pseudorandomness Generation, Coding Theory, and general Post-Quantum Cryptography. You can find my CV [here](/CV_Clement_Ducros.pdf).
+ More generally, my research interests lie in Secure Multiparty Computation, and Pseudorandomness Generation, Coding Theory, and general foundation of cryptography. You can find my CV [here](/CV_Clement_Ducros.pdf).
 
 
 News
