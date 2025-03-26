@@ -1,11 +1,11 @@
 ---
-title: "2022-2023"
+title: 
 collection: teaching
 ---
 
 
 
-I have been doing a bit of teaching since the start of my PhD, at UFR d'Informatique, Université Paris Cité. So far, I have taught exercice sessions (TD) and labs (TP) for the following courses:
+During my PHd, I had the opportunity to help as an assistant teacher at Université Paris Cité (in French). So far, I have taught exercice sessions (TD) and labs (TP) for the following courses:
 
 2023-2024
 ===
