@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Clément Ducros"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Third year PhD student in IRIF"
+description              : &description "Postdoctoral Research in CISPA Helmholtz Center for Information Security"
 url                      : https://clement-ducros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clement-ducros/clement-ducros.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Clément Ducros"
   avatar           : "moiJ.jpg"
-  bio              : "Third year PhD student"
-  location         : "Paris, France"
+  bio              : "Postdoctoral Research in CISPA Helmholtz Center for Information Security"
+  location         : "Saabrücken, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Xa2FwLAAAAAJ&hl=fr"
-  email            :
+  email            : "clement.ducros@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/cl%C3%A9ment-ducros-ba5709183/"
   orcid            : 
   pinterest        :
   soundcloud       :
