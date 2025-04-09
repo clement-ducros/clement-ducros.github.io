@@ -20,8 +20,33 @@ Publication
 
 - FOLEAGE: F4OLE-Based Multi-Party Computation for Boolean Circuits, *Dung Bui, Maxime Bombar, Geoffroy Couteau, Clément Ducros and Sacha Servan-Schreiber*, ASIACRYPT 2024 ([ePrint](https://eprint.iacr.org/2024/429.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-981-96-0938-3_3)).
 <details>
-  <summary>See more</summary>
-  <p>This is the hidden content that appears when you click "See more".</p>
+  <summary><em style="margin-left: 10px;">Abstract</summary>
+  <p  style="margin-left: 20px;">>em> ecure Multi-party Computation (MPC) allows two or more parties to compute
+any public function over their privately-held inputs, without revealing any information be-
+yond the result of the computation. Modern protocols for MPC generate a large amount of
+input-independent preprocessing material called multiplication triples, in an offline phase. This
+preprocessing can later be used by the parties to efficiently instantiate an input-dependent
+online phase computing the function.
+To date, the state-of-the-art secure multi-party computation protocols in the preprocessing
+model are tailored to secure computation of arithmetic circuits over large fields and require
+little communication in the preprocessing phase, typically O(N ·m) to generate m triples among
+N parties. In contrast, when it comes to computing preprocessing for computations that are
+naturally represented as Boolean circuits, the state-of-the-art techniques have not evolved since
+the 1980s, and in particular, require every pair of parties to execute a large number of oblivious
+transfers before interacting to convert them to N -party triples, which induces an Ω(N 2 · m)
+communication overhead.
+In this paper, we introduce F4OLEAGE, which addresses this gap by introducing an efficient
+preprocessing protocol tailored to Boolean circuits, with semi-honest security and tolerating
+N − 1 corruptions. F4OLEAGE has excellent concrete performance: It generates m multiplication
+triples over F2 using only N · m + O(N 2 · log m) bits of communication for N -parties, and can
+concretely produce over 12 million triples per second in the 2-party setting on one core of a
+commodity machine. Our result builds upon an efficient Pseudorandom Correlation Generator
+(PCG) for multiplication triples over the field F4. Roughly speaking, a PCG enables parties to
+stretch a short seed into a large number of pseudorandom correlations non-interactively, which
+greatly improves the efficiency of the offline phase in MPC protocols. This is achieved by intro-
+ducing a number of protocol-level, algorithmic-level, and implementation-level optimizations on
+the recent PCG construction of Bombar et al. (Crypto 2023) from the Quasi-Abelian Syndrome
+Decoding assumption.</p>
 </details>
 
 
