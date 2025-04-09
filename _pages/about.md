@@ -18,7 +18,12 @@ My subject was "Multiparty Computation from the Hardness of Coding Theory", and 
 Publication
 ======
 
-- FOLEAGE: F4OLE-Based Multi-Party Computation for Boolean Circuits, *Dung Bui, Maxime Bombar, Geoffroy Couteau, Clément Ducros and Sacha Servan-Schreiber*, ASIACRYPT 2024 ([ePrint](https://eprint.iacr.org/2024/429.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-981-96-0938-3_3))
+- FOLEAGE: F4OLE-Based Multi-Party Computation for Boolean Circuits, *Dung Bui, Maxime Bombar, Geoffroy Couteau, Clément Ducros and Sacha Servan-Schreiber*, ASIACRYPT 2024 ([ePrint](https://eprint.iacr.org/2024/429.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-981-96-0938-3_3)).
+<details>
+  <summary>See more</summary>
+  <p>This is the hidden content that appears when you click "See more".</p>
+</details>
+
 
 -  Correlated Pseudorandomness from the Hardness of Quasi-Abelian Decoding, *Maxime Bombar, Geoffroy Couteau, Alain Couvreur, and Clément Ducros* in CRYPTO 2023 ([ePrint](https://eprint.iacr.org/2023/845.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_18))
 
