@@ -20,8 +20,8 @@ Publication
 
 - FOLEAGE: F4OLE-Based Multi-Party Computation for Boolean Circuits, *Dung Bui, Maxime Bombar, Geoffroy Couteau, Clément Ducros and Sacha Servan-Schreiber*, ASIACRYPT 2024 ([ePrint](https://eprint.iacr.org/2024/429.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-981-96-0938-3_3)).
 <details>
-  <summary><em style="margin-left: 10px;">Abstract</summary>
-  <p  style="margin-left: 20px;">>em> ecure Multi-party Computation (MPC) allows two or more parties to compute
+  <summary><em style="margin-left: 10px;">Abstract</em></summary>
+  <p  style="margin-left: 20px;"><em> ecure Multi-party Computation (MPC) allows two or more parties to compute
 any public function over their privately-held inputs, without revealing any information be-
 yond the result of the computation. Modern protocols for MPC generate a large amount of
 input-independent preprocessing material called multiplication triples, in an offline phase. This
@@ -46,7 +46,7 @@ stretch a short seed into a large number of pseudorandom correlations non-intera
 greatly improves the efficiency of the offline phase in MPC protocols. This is achieved by intro-
 ducing a number of protocol-level, algorithmic-level, and implementation-level optimizations on
 the recent PCG construction of Bombar et al. (Crypto 2023) from the Quasi-Abelian Syndrome
-Decoding assumption.</p>
+Decoding assumption.</em></p>
 </details>
 
 
