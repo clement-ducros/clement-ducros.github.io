@@ -25,12 +25,15 @@ Publication
 - Pseudorandom Correlation Functions from Variable-Density LPN, Revisited, *Geoffroy Couteau and Clément Ducros*, in PKC 2023 ([ePrint](https://eprint.iacr.org/2023/650.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_8))
 
 
-We may have met
+We may have met - Events and Talks
 ======
 
 I have participated in the following events, in the antichronological order:
-
-- [Retraite ANR Barracuda 2024](https://barracuda.inria.fr/fr/),  Mortagne-sur-Gironde, January 8th to January 13th, 2024
+- [Journée C2 2025](https://barracuda.inria.fr/fr/),  Pornichet, March 30th to April 4th, 2025
+- [CWI Seminar](https://projects.cwi.nl/crypto/),  CWI - Amsterdam , September 9th to September 13th, , 2024
+- [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/), Zurich , May 26th to May 30th, 2024
+- [PEPR-SecureCompute](https://www.pepr-cybersecurite.fr/projet/securecompute/), ENS ULM - Paris, January 24th, 2024
+- [Rennes Crypto Seminar](https://www.creachlabs.fr/en/seminars-keeping-date-latest-research/cryptography-seminar),  IRMAR - Université de Rennes, January 19th, 2024
 - [Journées C2 2023](https://indico.math.cnrs.fr/event/9364/), Najac, October 15th to October 20th, 2023.
 - [CRYPTO 2023](https://crypto.iacr.org/2023/), Santa Barbara, August 19th to August 24th, 2023.
 - [EPIT 2022](https://epit2023.sciencesconf.org/), June 12th to June 16th, 2023.  
