@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Clément Ducros"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Postdoctoral Research in CISPA Helmholtz Center for Information Security"
+description              : &description "Postdoctoral Research at CISPA Helmholtz Center for Information Security"
 url                      : https://clement-ducros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clement-ducros/clement-ducros.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Clément Ducros"
   avatar           : "moiJ.jpg"
-  bio              : "Postdoctoral Research in CISPA Helmholtz Center for Information Security"
-  location         : "Saabrücken, Germany"
+  bio              : "Postdoctoral Research at CISPA Helmholtz Center for Information Security"
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Xa2FwLAAAAAJ&hl=fr"
