@@ -25,6 +25,12 @@ Publication
 - Pseudorandom Correlation Functions from Variable-Density LPN, Revisited, *Geoffroy Couteau and Clément Ducros*, in PKC 2023 ([ePrint](https://eprint.iacr.org/2023/650.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_8)).
 
 
+Current works and Pre-Print
+======
+
+- Strong Pseudorandom Functions in AC0[2] in the Bounded-Query Setting, * Marshal Ball, Clément Ducros, Saroja Erabelli, Lisa Kohl, Nicolas Resch* (eprint coming soon).
+- Strong Efficiency Lower Bounds for Byzantine Agreement, * Clément Ducros, Julian Loss, Matthieu Rambaud* (eprint coming soon).
+
 We may have met - Events and Talks
 ======
 
