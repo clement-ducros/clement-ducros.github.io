@@ -1,6 +1,11 @@
+
 ---
-layout: archive
+permalink: /
 title: "Miscellaneous"
-permalink: /miscellaneous/
+excerpt: "About me"
 author_profile: true
 ---
+
+
+
+hello
