@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-During my PhD, I had the opportunity to help as an assistant teacher at Université Paris Cité (in French). So far, I have taught exercice sessions (TD) and labs (TP) for the following courses:
+During my PhD, I had the opportunity to help as an assistant teacher at Université Paris Cité (in French). So far, I have taught exercise sessions (TD) and labs (TP) for the following courses:
 
 2023-2024
 ===
 
-* [Initiation à la programmation 1 (Java)](https://moodle.u-paris.fr/course/view.php?id=1620) - TP - L1
-* [Concepts Informatiques](https://moodle.u-paris.fr/course/view.php?id=1625) - TD - L1
+* [Initiation à la programmation 1 (Java)](https://moodle.u-paris.fr/course/view.php?id=1620) - TP - L1 
+* [Concepts Informatiques](https://moodle.u-paris.fr/course/view.php?id=1625) - TD - L1 
 
 2022-2023
 ===
