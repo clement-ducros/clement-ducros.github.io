@@ -13,7 +13,7 @@ Since January 2025, I am a postdoctoral researcher at CISPA Helmholtz Center for
 Previously, I was a PhD student at the Institut de Recherche en Informatique Fondementale [IRIF](https://www.irif.fr/), Université Paris Cité, under the supervision of [Geoffroy Couteau](https://geoffroycouteau.github.io/) and [Alain Couvreur](http://www.lix.polytechnique.fr/Labo/Alain.Couvreur/).
 My subject was "Multiparty Computation from the Hardness of Coding Theory", and you can find my thesis [here](/thesisDucros.pdf). 
 
- More generally, my research interests lie in Secure Multiparty Computation, and Pseudorandomness Generation, Coding Theory, Consensus,and general foundation of cryptography. You can find my CV [here](/CV_Clement_Ducros.pdf).
+ More generally, my research interests lie in Secure Multiparty Computation, and Pseudorandomness Generation, Coding Theory, Consensus,and general foundation of cryptography. You can find my CV [here](/cv.pdf).
 
 Publication
 ======
