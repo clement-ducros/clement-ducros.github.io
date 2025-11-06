@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Miscellaneous"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 ---
 
