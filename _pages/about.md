@@ -28,8 +28,8 @@ Publication
 Current works and Pre-Print
 ======
 
-- Strong Pseudorandom Functions in AC0[2] in the Bounded-Query Setting, * Marshal Ball, Clément Ducros, Saroja Erabelli, Lisa Kohl, Nicolas Resch* (eprint coming soon).
-- Strong Efficiency Lower Bounds for Byzantine Agreement, * Clément Ducros, Julian Loss, Matthieu Rambaud* (eprint coming soon).
+- Strong Pseudorandom Functions in AC0[2] in the Bounded-Query Setting, *Marshal Ball, Clément Ducros, Saroja Erabelli, Lisa Kohl, Nicolas Resch* (eprint coming soon).
+- Strong Efficiency Lower Bounds for Byzantine Agreement, *Clément Ducros, Julian Loss, Matthieu Rambaud* (eprint coming soon).
 
 We may have met - Events and Talks
 ======
