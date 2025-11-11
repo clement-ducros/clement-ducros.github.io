@@ -1,9 +1,5 @@
-# main links links
 main:
-
   - title: "Teaching"
     url: /teaching/
-    
   - title: "Miscellaneous"
-  -  url: /miscellaneous/
-
+    url: /miscellaneous/
