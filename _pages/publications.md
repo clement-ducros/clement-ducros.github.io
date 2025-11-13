@@ -11,7 +11,7 @@ author_profile: true
 
 -  Correlated Pseudorandomness from the Hardness of Quasi-Abelian Decoding, *Maxime Bombar, Geoffroy Couteau, Alain Couvreur, and Clément Ducros* in CRYPTO 2023 ([ePrint](https://eprint.iacr.org/2023/845.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_18))
 
-  We introduce a new PCG for OLE over any field $F_q, q > 2$ , based on a new variant of the Syndrom Decoding assumption, named the Quasi-Abelian Syndrom Decoding. Previous construction FOCS et al. (CRYPTO 2020) was limited to very big fields. 
+  We introduce a new PCG for OLE over any field $F_q, q > 2$ , based on a new variant of the Syndrom Decoding assumption, named the Quasi-Abelian Syndrom Decoding. Previous construction (Efficient Pseudorandom Correlation Generators from Ring-LPN  ,Boyle et al., CRYPTO 2020) was limited to very big fields. 
 
 - Pseudorandom Correlation Functions from Variable-Density LPN, Revisited, *Geoffroy Couteau and Clément Ducros*, in PKC 2023 ([ePrint](https://eprint.iacr.org/2023/650.pdf),[Springer](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_8))
 
