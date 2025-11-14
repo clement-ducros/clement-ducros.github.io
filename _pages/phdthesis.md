@@ -11,9 +11,9 @@ From October 2021 to November 2024, I was a PhD student in University Paris-Cit�
 The jury included:
 
 - Nico Döttling (President of the jury, Professor, Helmholtz Center for Information Security (CISPA)).
-- Nicolas Sendrier (Reviewer, \\ Research Director, INRIA Paris).
-- Emmanuela Orsini (Reviewer, Tenure-Track Assistant Professor, \\ Bocconi University).
-- Yixin Shen (Examiner, Research Scientist, INRIA \\ Rennes).
+- Nicolas Sendrier (Reviewer,  Research Director, INRIA Paris).
+- Emmanuela Orsini (Reviewer, Tenure-Track Assistant Professor, Bocconi University).
+- Yixin Shen (Examiner, Research Scientist, INRIA Rennes).
 - Philippe Gaborit (Examiner, Professor, CNRS, University of Limoges).
 - Lisa Kohl (Examiner, Researcher, CWI, Amsterdam, The Netherlands).
 - Sophie Laplante (PhD director, Professor, Université Paris-Cité, IRIF, Paris)
